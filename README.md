@@ -35,4 +35,4 @@ P5.js: p5.js is a JavaScript library for creative coding, with a focus on making
 
 Click on the below link either from your cell phone, laptop or desktop with a webcam. Stand in front of the camera at a distance of at least 2 - 3 meters and you will be able to see that the camera is capturing your body movements.
 
-https://ashutosh9110.github.io/posenet_ml5js/
+https://ashutosh9110.github.io/Real-time-Human-Pose-Estimation-in-your-browser/

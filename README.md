@@ -4,17 +4,17 @@
 
 With PoseNet running on TensorFlow.js anyone with a decent webcam-equipped desktop or phone can experience this technology right from within a web browser.
 
-PoseNet is a machine-learning model that allows for Real-time Human Pose Estimation.
+Posenet is a real-time pose detection technique with which you can detect human beings' poses in an Image or in a Video. It uses a Convolution Neural Network (CNN) model to regress pose from a single RGB image. 
 
 # Is it even useful?
 
-Well, Snapchat uses these modules for its users. This is possible because they are able to detect posture. 
+Well, Snapchat uses these modules for its users to detect postures. 
 
-Also in Simulator video games like tennis, they use Posenet to identify if the shot you just took is correct or not.
+Also in Simulator video games like tennis, they use Posenet to detect your body movements and then check if the shot you have taken is correct or not.
 
 # So what is pose estimation?
 
-Pose estimation refers to computer vision techniques that detect human figures in images and videos so that one could determine where someone’s elbow shows up in an image or video.
+Pose estimation refers to computer vision techniques that detect human figures in images and videos so that one could determine where someone’s elbow shows up in an image or video. Pose Estimation techniques have many applications such as Gesture Control, Action Recognition and also in the field of augmented reality.
 
 
 ![](https://github.com/Ashutosh9110/posenet_ml5js/blob/main/1.gif) 
